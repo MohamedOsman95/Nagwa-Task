@@ -11,11 +11,11 @@ Task is needed to simulate the search for a lesson on nagwa website then opening
 7.	Go to worksheet section then click preview button.
 8.	Worksheet home page will open then count number of questions displayed on it and print the count.
 
-##Tool:
+## Tool:
 IntelliJ IDEA 
-##Frameworks:
+## Frameworks:
 Selenium, TestNG, Maven
-##Programing language:
+## Programing language:
 Java 
-##Design Pattern:
+## Design Pattern:
 Page Object Model on two pages (Home page, Lessons Page)
